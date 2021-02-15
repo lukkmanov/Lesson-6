@@ -3,7 +3,6 @@
 
 using namespace std;
 
-
 int main()
 {
     string file_in, word_in, word_fn;
