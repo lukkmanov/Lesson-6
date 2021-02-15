@@ -29,8 +29,6 @@ bool filecopy()
       return 0;
 }
 
-
-
 int main()
 {
   ofstream file1("file_1.txt");
